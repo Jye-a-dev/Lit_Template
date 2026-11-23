@@ -17,7 +17,7 @@ Dữ liệu phiên bản được ghi nhận chính xác theo thời gian thực
 
 ---
 
-## 📁 Cấu trúc thư mục
+## 📁 Cấu trúc thư mục.
 
 Cây thư mục thực tế của dự án hiện tại:
 
